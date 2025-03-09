@@ -31,7 +31,7 @@ Globetel is a hotel listing API that allows users to filter and sort hotels base
    ```
 5. The API will be available at:
    ```sh
-   http://localhost:3010
+   https://globetel.vercel.app/
    ```
 
 ## API Endpoints
