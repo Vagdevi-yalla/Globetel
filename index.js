@@ -11,9 +11,7 @@ app.use(cors());
 
 //display all hotels
 
-app.get('/', (req, res) => {
-  res.json({ hotels: hotels });
-});
+
 
 app.get('/hotels', (req, res) => {
   res.json({ hotels: hotels });
